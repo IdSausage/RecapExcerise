@@ -1,0 +1,11 @@
+img{
+    transition: transform .1s ease-in-out;
+}
+
+img:hover{
+    transform: scale(1.2);
+}
+
+section{
+    margin: 20px;
+}
